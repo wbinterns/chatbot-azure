@@ -1,0 +1,42 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+        {
+            "type": "Image",
+            "url": "https://www.google.com/search?q=flowers&rlz=1C1GCEA_enUS852US852&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiKq7CNgN_iAhUFI6wKHTKOCjQQ_AUIECgB&biw=1920&bih=969#imgrc=VTwkOReVwjilqM:",
+            "size":"auto"
+        },
+        {
+            "type": "TextBlock",
+            "spacing": "small",
+            "size": "large",
+            "weight": "lighter",
+            "text": "Welcome to Site Finder!",
+            "wrap": true,
+            "maxLines":0
+        },
+        {
+            "type":"TextBlock",
+            "size":"small",
+            "weight": "bolder",
+            "text":"Please choose a website that you wish to visit from the list provided",
+            "wrap":true,
+            "maxLines":0
+        }
+    ],
+    "actions": [
+        {
+            "type": "Action.OpenUrl",
+            "title": "Google",
+            "iconUrl": "https://www.google.com/search?q=google&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiO5_TTg9_iAhVJlKwKHY2kCRQQ_AUIEygE&biw=1920&bih=969#imgrc=YKVTF-GCt7tkiM:",
+            "url": "https://www.google.com/"
+        },
+        {
+           "type": "Action.OpenUrl",
+           "title": "Wikipedia",
+           "url": "https://www.wikipedia.org/"
+        }
+    ]
+}

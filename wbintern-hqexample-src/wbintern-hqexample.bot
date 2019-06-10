@@ -1,0 +1,18 @@
+{
+    "name": "wbintern-hqexample",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "0421e424-7255-4012-b279-3dc39dbaa341",
+            "appPassword": "2zZsVgC7qfPhJWP6CRt4EA==!ONbxYLy53VermtwZpD9TgxxpoMS2lmDhzBjo7/7+R3k=",
+            "endpoint": "http://localhost:3000/api/messages",
+            "id": "88f64660-8b95-11e9-8e3a-771d48698245",
+            "name": "http://localhost:3000/api/messages"
+        }
+    ],
+    "padlock": "TaRVAYZzvxIIGF/dbWFBEw==!2+DJTcTo3lp5UOLgZNYjcqQAzv8vFWaBlqUBZLE2tpTe9gB5mfSY84Ldv5ebx8Ef",
+    "version": "2.0",
+    "overrides": null,
+    "path": "\\\\netapp-gob-2a\\~\\private\\Documents\\git\\wbintern-hqexample.bot"
+}
