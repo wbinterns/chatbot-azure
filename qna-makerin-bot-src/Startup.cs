@@ -1,6 +1,12 @@
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
 
+/*
+    THIS IS AN TEST TEXT THAT IM ADDING ON TO SEE IF IT CAN GO TO AZURE
+    IM BLUEDABODEDABODADABODEDABODA
+    JKADFLADFLKSAHDFJASHDFLKASHDFKHASLKDFHSAJK
+ */
+
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
