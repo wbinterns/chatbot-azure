@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # QnA Maker service
 QnA Maker enables you to power a question and answer service from your semi-structured content.
 
@@ -82,4 +84,5 @@ To learn how, see [Deploy your bot to Azure][40] for a complete set of deploymen
 [31]: https://www.npmjs.com/package/dotenv
 [32]: https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0
 [40]: https://aka.ms/azuredeployment
+>>>>>>> d8d965dafe94c97ec3fc3c416083077ad47a1e14
 # chatbot-azure
